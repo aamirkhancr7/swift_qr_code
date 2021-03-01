@@ -1,0 +1,1 @@
+# swift_qr_code
